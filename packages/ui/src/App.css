@@ -1,0 +1,25 @@
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-cont {
+    display: flex;
+    width: 100vw;
+    padding: 20px;
+}
+.building-block {
+    flex: 1;
+    margin: 10px;
+    height: 100px;
+}
+
+.red-bg {
+    background-color: #fa7070;
+}
+
+.beige-bg {
+    background-color: #fefded;
+}
+.green-bg {
+    background-color: #c6ebc5;
+}
